@@ -1,2 +1,2 @@
 # SrishtiSarkhel.github.io
-Visit page using this link: https://srishtisarkhel.github.io/
+Visit my portfolio page using this link: https://srishtisarkhel.github.io/
